@@ -3,13 +3,6 @@
 //subscription-userinfo: upload=0; download=0; total=10000000; expire=55999999999
   
 vless://dde50923-9e13-4dbb-9900-7542301effff@188.114.96.42:80?encryption=none&security=none&type=ws&host=safsafi.chrome1.workers.dev&path=%2F%3Fed%3D2560#chrome
-vless://1b3bd489-664d-42fe-85b8-f33dbb680c92@188.114.96.42:80?encryption=none&security=none&type=ws&host=brave.brave1.workers.dev&path=%2F%3Fed%3D2560#brave
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?encryption=none&security=none&type=ws&host=firefox.firefox1.workers.dev&path=%2F%3Fed%3D2560#firefox
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:3037::ac43:dc90]:80?encryption=none&security=none&type=ws&host=edge.edge2.workers.dev&path=%2F%3Fed%3D2560#%20edge%20-%20ipv6
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.94.73:80?encryption=none&security=none&type=ws&host=edge.edge2.workers.dev&path=%2F%3Fed%3D2560#edge
 vless://2a8d5a46-e110-4bc4-a8a7-5856a39ba0c7@188.114.97.3:80?encryption=none&security=none&type=ws&host=vivaldi.vivaldi.workers.dev&path=%2F%3Fed%3D2560#vivaldi
 vless://2a8d5a46-e110-4bc4-a8a7-5856a39ba0c7@[2a06:98c1:3121::3]:80?encryption=none&security=none&type=ws&host=vivaldi.vivaldi.workers.dev&path=%2F%3Fed%3D2560#vivaldi%20-%20IPv6
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.94.73:443?encryption=none&security=tls&sni=bpB.EdgE2.WorKerS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=BPb.Edge2.workerS.DEv&path=%2Fbn3bBPlwavbCQisr%2FaXB1cy5hbWlyNzYuaXI%3D%3Fed%3D2560#BPB%20-edge
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:3037::ac43:dc90]:443?encryption=none&security=tls&sni=bPB.EDGe2.WOrKers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=BPB.EDGE2.woRKErs.deV&path=%2FaB3nxzZJzsTu9ZBC%2FaXB1cy5hbWlyNzYuaXI%3D%3Fed%3D2560#BPB%20-%20edge%20-%20ipv6
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[2606:4700:d0:0:adfa:2f73:2b03:6e06]:443?encryption=none&security=tls&sni=bpb.OPeRA-bEta1.woRkErs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=Bpb.oPerA-beTA1.wORkERS.DEv&path=%2FnQW360KR1wBAPydp%2FMTUwLjIzMC40Ny4xNw%3D%3D%3Fed%3D2560#BPB%20-%20operabeta%20-%20ipv6
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.192.19:443?encryption=none&security=tls&sni=BPb.opeRA-bEta1.WOrkErS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=BPb.oPEra-BEtA1.WORKErS.dEv&path=%2FmeoI38VfOFKZNr4u%2FMTUwLjIzMC40Ny4xNw%3D%3D%3Fed%3D2560#BPB%20-%20operabeta
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@visa.cn:80?encryption=none&security=none&type=ws&host=operabeta.opera-beta1.workers.dev&path=%2F%3Fed%3D2560#operabeta
