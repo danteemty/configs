@@ -1,3 +1,7 @@
+//profile-title: Cloudflare workers
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10000000; expire=55999999999
+
 vless://1cb45d1c-733c-4c63-9ba4-a23559c6086f@chatgpt.com:443?path=%2FeyJqdW5rIjoiem5uNTlMRmlMM2EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&alpn=http%2F1.1&host=lingering-dawn-0a2b.firefox1.workers.dev&fp=chrome&type=ws&sni=lInGerinG-DAwN-0A2b.fIreFox1.WorkeRS.Dev#brave
 vless://1cb45d1c-733c-4c63-9ba4-a23559c6086f@188.114.96.42:2053?encryption=none&security=tls&sni=lingering-dawn-0a2b.firefox1.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=lingering-dawn-0a2b.firefox1.workers.dev&path=%2FeyJqdW5rIjoibnBqbnJ4ZnZKTDJRQTNsQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#firefox
 vless://dde50923-9e13-4dbb-9900-7542301effff@188.114.96.42:443?encryption=none&security=tls&sni=safsafi.chrome1.workers.dev&alpn=http%2F1.1&fp=safari&type=ws&host=safsafi.chrome1.workers.dev&path=%2F%3Fed%3D2560#chrome
